@@ -1,0 +1,26 @@
+{
+  "name": "dbrecordsutility",
+  "version": "1.0.0",
+  "description": "Data Utility Package for handling the data that comes from the API in form of a list of record maps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOPIKRISHNA44/DataUtiltyPackage.git"
+  },
+  "keywords": [
+    "Data",
+    "Table",
+    "Map",
+    "List",
+    "Records"
+  ],
+  "author": "G B K V GOPI KRISHNA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GOPIKRISHNA44/DataUtiltyPackage/issues"
+  },
+  "homepage": "https://github.com/GOPIKRISHNA44/DataUtiltyPackage#readme"
+}

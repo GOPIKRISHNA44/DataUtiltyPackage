@@ -1,6 +1,6 @@
 {
   "name": "dbrecordsutility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data Utility Package for handling the data that comes from the API in form of a list of record maps.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GOPIKRISHNA44/DataUtiltyPackage.git"
+    "url": "git+https://github.com/GOPIKRISHNA44/DataUtiltyPackage/tree/release1.0"
   },
   "keywords": [
     "Data",
